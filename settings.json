@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "whataburger-mc",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "whataburgermc.aternos.me",
