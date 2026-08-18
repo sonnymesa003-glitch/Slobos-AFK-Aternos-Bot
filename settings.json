@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "whataburger bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "whataburger-mc",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "whataburgermc.aternos.me",
     "port": 46902,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "sonny has aura",
+        "whataburger",
+        "son"
       ]
     },
     "chat-log": true,
